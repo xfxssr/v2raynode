@@ -12,7 +12,7 @@
 ```
 小飞侠SSR
 节点非常多，有的速度很快
-价格很优惠,线路问题，非常推荐
+价格很优惠,线路稳定，非常推荐
 
 ```
  [https://www.xfxssr.com](https://www.xfxssr.com)  [https://t.me/xfxssr](https://t.me/xfxssr)
