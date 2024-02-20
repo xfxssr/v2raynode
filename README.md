@@ -10,6 +10,11 @@
     <summary>免费机场列表，需注册</summary>
 
 ```
+小飞侠SSR https://www.xfxssr.com  https://t.me/xfxssr
+节点非常多，有的速度很快
+价格很优惠,线路问题，非常推荐
+
+
 星链计划（v2）https://starlink.to/ https://t.me/starlinkto
 节点非常多，有的速度很快
 免费流量100G，到期或者用完可以发工单重置
