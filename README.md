@@ -1,4 +1,4 @@
-# 高速稳定免费机场推荐
+# 高速稳定机场和免费机场推荐
 
 * 本文不含任何推广链接，只包含亲测免费的，顺序按测试顺序而非推荐程度
 * 本文不保证时效性，不保证更新频率，即也许你看到时已经打不开或者收费了
@@ -7,12 +7,19 @@
 * 好用请给star
 
 <details>
-    <summary>免费机场列表，需注册</summary>
+    <summary>高速稳定机场推荐，需注册</summary>
 
 ```
 小飞侠SSR https://www.xfxssr.com  https://t.me/xfxssr
 节点非常多，有的速度很快
 价格很优惠,线路问题，非常推荐
+
+```
+
+<details>
+    <summary>免费机场列表，需注册</summary>
+
+```
 
 
 星链计划（v2）https://starlink.to/ https://t.me/starlinkto
