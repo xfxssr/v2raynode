@@ -10,7 +10,7 @@
     <summary>高速稳定机场推荐，需注册</summary>
 
 ```
-小飞侠SSR https://www.xfxssr.com  https://t.me/xfxssr
+小飞侠SSR [https://www.xfxssr.com](https://www.xfxssr.com)  [https://t.me/xfxssr](https://t.me/xfxssr)
 节点非常多，有的速度很快
 价格很优惠,线路问题，非常推荐
 
@@ -22,20 +22,20 @@
 ```
 
 
-星链计划（v2）https://starlink.to/ https://t.me/starlinkto
+星链计划（v2）[https://starlink.to/](https://starlink.to/) [https://t.me/starlinkto](https://t.me/starlinkto)
 节点非常多，有的速度很快
 免费流量100G，到期或者用完可以发工单重置
 
-cnplus（v2）https://okgg.top https://t.me/freemyv2rayssr
+cnplus（v2）[https://okgg.top](https://okgg.top) [https://t.me/freemyv2rayssr](https://t.me/freemyv2rayssr)
 节点非常多，但质量一般
 注册送一点余额，累计能买两个月，但单次只能买3天，一定要手动购买套餐才能用，不会自动续期
 注册必须要邀请码，tg群里有
 
-https://www.shadowrhythm.xyz/ https://t.me/+Tc4aPVfZPFQ3ODQ1
+[https://www.shadowrhythm.xyz/](https://www.shadowrhythm.xyz/) [https://t.me/+Tc4aPVfZPFQ3ODQ1](https://t.me/+Tc4aPVfZPFQ3ODQ1)
 免费节点7个
 之前要手动购买一下0元套餐，现在好像看不到了，不知道是不是注册就行
 
-百慕大里的小小布吉岛～（v2）https://v2.bujidao.org https://t.me/bujidaoChat
+百慕大里的小小布吉岛～（v2）[https://v2.bujidao.org](https://v2.bujidao.org) [https://t.me/bujidaoChat](https://t.me/bujidaoChat)
 节点列表页面未启用监测
 目前禁止大陆IP访问，邀请码必填tg群里有
 大概三个星期过期，可以注销账号
