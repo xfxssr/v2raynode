@@ -16,7 +16,9 @@
 
 ```
  [https://www.xfxssr.com](https://www.xfxssr.com)  [https://t.me/xfxssr](https://t.me/xfxssr)
- 
+
+ ![屏幕截图 2024-02-22 150201](https://github.com/xfxssr/FreeSSSSRV2RayClash/assets/160599155/e63132b6-9af2-4b41-b100-a2caee7880e4)
+
 
 <details>
     <summary>免费机场列表，需注册</summary>
