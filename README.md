@@ -1,10 +1,24 @@
 # 高速稳定机场和免费机场推荐
 
-* 本文不含任何推广链接，只包含亲测免费的，顺序按测试顺序而非推荐程度
-* 本文不保证时效性，不保证更新频率，即也许你看到时已经打不开或者收费了
-* 请不要滥用，不要短时间内反复注册、自己推荐自己
-* 转载可以转载内容，但**不要**加上出处
-* 好用请给star
+2024年4月3日，提供5个订阅地址10高速免费节点，支持V2Ray、vpn、免费机场、无限流量，免费VPN，无限流量！V2Ray节点分享，支持v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理一、说明介绍与机场推荐
+
+本次更新节点，包括 [美国、新加坡、加拿大、香港、欧洲、日本、韩国等]共5个订阅地址，复制下面的节点数据，导入或者粘贴到v2ray/iso小火箭/winxray、2rayNG，BifrostV，Clash，Kitsunebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash，小火箭！等科学上网工具，直接使用即可
+
+二，自用机场推荐
+
+包月（不限时）最低5元起150GB流量：点我了解详情
+
+同步电报群：https://t.me/xfxssr
+
+二，节点列表和测试速度
+
+导入订阅地址直接使用
+
+https://www.xfxssr.com/api/v1/client/subscribe?token=8a2d31645dc53d698daf0752834595bb
+https://www.xfxssr.com/api/v1/client/subscribe?token=6796badae2c4583de6eebfeba79afae7
+https://www.xfxssr.com/api/v1/client/subscribe?token=d4ddf7c82c8e09a43000f6c6f1fc2af1
+https://www.xfxssr.com/api/v1/client/subscribe?token=9c6bb517de371d9ee0f5507e08dd4abd
+https://www.xfxssr.com/api/v1/client/subscribe?token=3abad457774c9cb1c552e66eb6cd8077
 
 <details>
     <summary>高速稳定机场推荐，需注册</summary>
