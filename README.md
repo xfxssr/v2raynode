@@ -24,7 +24,11 @@ https://www.xfxssr.com/api/v1/client/subscribe?token=da8cc86121423caacb59219d025
 
 https://www.xfxssr.com/api/v1/client/subscribe?token=dd7919f9f3b127136d9efc0bc52f148b
 
+试用clash verge测速，秒开油管4k视频
 
+![屏幕截图 2024-04-13 111112](https://github.com/xfxssr/FreeSSSSRV2RayClash/assets/160599155/5a2e37af-25d9-4b49-ae91-c0a22d6818b9)
+
+![屏幕截图 2024-04-13 111726](https://github.com/xfxssr/FreeSSSSRV2RayClash/assets/160599155/2557e936-d530-428c-802f-8f0636ee2b1b)
 
 <details>
     <summary>高速稳定机场推荐，需注册</summary>
