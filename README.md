@@ -18,11 +18,11 @@
 
 https://www.xfxssr.com/api/v1/client/subscribe?token=35f6b61d5107c871dd77b6c6d778b874
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=7087fd9dfe0cee9fc95b34bff3b105b8
+https://www.xfxssr.com/api/v1/client/subscribe?token=2a1e773f13d84cdcc99d25fbf4b24048
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=9149f14bac007e647f575be6b59ad7a5
+https://www.xfxssr.com/api/v1/client/subscribe?token=c8b8356b7310c985a34a91bec5cea927
 
-https://www.xfxssr.com/api/v1/client/subscribe?token=b3407618356f0b149c369e9ed0c4ebe3
+https://www.xfxssr.com/api/v1/client/subscribe?token=5321160214749c5818443fd0c3fe1065
 
 
 试用clash verge测速，秒开油管4k视频
